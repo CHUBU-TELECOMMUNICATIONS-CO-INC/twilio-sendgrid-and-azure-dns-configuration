@@ -1,4 +1,6 @@
-azure
+azure-cli-core
+azure-mgmt-dns
+azure-identity
 requests
 urllib3
 python-dotenv
